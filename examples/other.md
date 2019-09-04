@@ -25,7 +25,7 @@
     </tr>
 </table>
 
-## ODPi Member Logo
+## ODPi Member Logos
 
 <table>
     <tr>
@@ -38,7 +38,9 @@
     </tr>
 </table>
 
-## Egeria Conformant Logo
+## Egeria Conformant Logos
+
+The [Egeria Conformant](examples/other.md#egeria-conformant-logos) marks are only available for use with [conformant](https://www.odpi.org/projects/egeria/conformance) implementations and must comply with the [brand guidelines](https://odpi.org/egeria-brandguide).
 
 <table>
     <tr>
