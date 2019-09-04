@@ -4,8 +4,6 @@ In this repo, we have artwork in standard formats for the ODPi [projects](https:
 
 With many browsers, you can right click and copy the logo of your choice below. Please note that although PNG is more common, SVG file sizes are smaller, supported in all modern web browsers, and a high-resolution format suitable for both print and high-resolution computer screens.
 
-You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](https://store.cncf.io/collections/kubernetes). For questions about using terms in text, please see the CNCF [Style Guide](https://github.com/cncf/foundation/blob/master/style-guide.md).
-
 * [Active Projects](examples/active.md)
   * [ODPi Egeria](examples/active.md#odpi-egeria-logos)
   * ODPi BI and AI (coming soon)
