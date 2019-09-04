@@ -1,0 +1,62 @@
+# Other ODPi Logos
+
+*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
+
+## ODPi Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>color</th>
+        <th>black</th>
+        <th>white</th>
+    </tr>
+    <tr>
+        <th>PNG</th>
+        <td><img src="/other/odpi/odpi-color.png" width="200"></td>
+        <td><img src="/other/odpi/odpi-black.png" width="200"></td>
+        <td><img src="/other/odpi/odpi-white.png" width="200"></td>
+    </tr>
+    <tr>
+        <th>SVG</th>
+        <td><img src="/other/odpi/odpi-color.svg" width="200"></td>
+        <td><img src="/other/odpi/odpi-black.svg" width="200"></td>
+        <td><img src="/other/odpi/odpi-white.svg" width="200"></td>
+    </tr>
+</table>
+
+## ODPi Member Logo
+
+<table>
+    <tr>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <td><img src="/other/odpi-member/odpi-member.png" width="200"></td>
+        <td><img src="/other/odpi-member/odpi-member.svg" width="200"></td>
+    </tr>
+</table>
+
+## Egeria Conformant Logo
+
+<table>
+    <tr>
+        <th></th>
+        <th>color</th>
+        <th>black</th>
+        <th>white</th>
+    </tr>
+    <tr>
+        <th>PNG</th>
+        <td><img src="/other/egeria-conformant/egeria-conformant-color.png" width="200"></td>
+        <td><img src="/other/egeria-conformant/egeria-conformant-black.png" width="200"></td>
+        <td><img src="/other/egeria-conformant/egeria-conformant-white.png" width="200"></td>
+    </tr>
+    <tr>
+        <th>SVG</th>
+        <td><img src="/other/egeria-conformant/egeria-conformant-color.svg" width="200"></td>
+        <td><img src="/other/egeria-conformant/egeria-conformant-black.svg" width="200"></td>
+        <td><img src="/other/egeria-conformant/egeria-conformant-white.svg" width="200"></td>
+    </tr>
+</table>
