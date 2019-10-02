@@ -8,7 +8,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [ODPi Egeria](examples/active.md#odpi-egeria-logos)
   * ODPi BI and AI (coming soon)
 * [Incubating Projects](examples/incubating.md)
-  * [OpenDS4All](examples/incubating.md#odpi-opends4all)
+  * [OpenDS4All](examples/incubating.md#odpi-opends4all-logos)
 * [Other ODPi Logos](examples/other.md)
   * [ODPi](examples/other.md#odpi-logos)
   * [ODPi Member](examples/other.md#odpi-member-logos)
