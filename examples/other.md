@@ -7,20 +7,22 @@
 <table>
     <tr>
         <th></th>
-        <th>color</th>
-        <th>black</th>
-        <th>white</th>
-    </tr>
-    <tr>
         <th>PNG</th>
-        <td><img src="/other/odpi/odpi-color.png" width="200"></td>
-        <td><img src="/other/odpi/odpi-black.png" width="200"></td>
-        <td><img src="/other/odpi/odpi-white.png" width="200"></td>
+        <th>SVG</th>
     </tr>
     <tr>
-        <th>SVG</th>
+        <th>color</th>
+        <td><img src="/other/odpi/odpi-color.png" width="200"></td>
         <td><img src="/other/odpi/odpi-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/odpi/odpi-black.png" width="200"></td>
         <td><img src="/other/odpi/odpi-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/odpi/odpi-white.png" width="200"></td>
         <td><img src="/other/odpi/odpi-white.svg" width="200"></td>
     </tr>
 </table>
@@ -45,20 +47,22 @@ The [Egeria Conformant](examples/other.md#egeria-conformant-logos) marks are onl
 <table>
     <tr>
         <th></th>
-        <th>color</th>
-        <th>black</th>
-        <th>white</th>
-    </tr>
-    <tr>
         <th>PNG</th>
-        <td><img src="/other/egeria-conformant/egeria-conformant-color.png" width="200"></td>
-        <td><img src="/other/egeria-conformant/egeria-conformant-black.png" width="200"></td>
-        <td><img src="/other/egeria-conformant/egeria-conformant-white.png" width="200"></td>
+        <th>SVG</th>
     </tr>
     <tr>
-        <th>SVG</th>
+        <th>color</th>
+        <td><img src="/other/egeria-conformant/egeria-conformant-color.png" width="200"></td>
         <td><img src="/other/egeria-conformant/egeria-conformant-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/egeria-conformant/egeria-conformant-black.png" width="200"></td>
         <td><img src="/other/egeria-conformant/egeria-conformant-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/egeria-conformant/egeria-conformant-white.png" width="200"></td>
         <td><img src="/other/egeria-conformant/egeria-conformant-white.svg" width="200"></td>
     </tr>
 </table>

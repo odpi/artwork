@@ -7,20 +7,22 @@
 <table>
     <tr>
         <th></th>
-        <th>color</th>
-        <th>black</th>
-        <th>white</th>
-    </tr>
-    <tr>
         <th>PNG</th>
-        <td><img src="/projects/opends4all/odpiopends4all-color.png" width="200"></td>
-        <td><img src="/projects/opends4all/odpiopends4all-black.png" width="200"></td>
-        <td><img src="/projects/opends4all/odpiopends4all-white.png" width="200"></td>
+        <th>SVG</th>
     </tr>
     <tr>
-        <th>SVG</th>
+        <th>color</th>
+        <td><img src="/projects/opends4all/odpiopends4all-color.png" width="200"></td>
         <td><img src="/projects/opends4all/odpiopends4all-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/opends4all/odpiopends4all-black.png" width="200"></td>
         <td><img src="/projects/opends4all/odpiopends4all-black.svg" width="200"></td>
+        </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/opends4all/odpiopends4all-white.png" width="200"></td>
         <td><img src="/projects/opends4all/odpiopends4all-white.svg" width="200"></td>
     </tr>
 </table>
