@@ -36,14 +36,8 @@
         <th>Sleeve Logo</th>
     </tr>
     <tr>
-        <td>
-          <object data="/projects/egeria/egeria_shirt_proof.pdf" type="application/pdf" width="200px" height="200px">
-              <embed src="/projects/egeria/egeria_shirt_proof.pdf">
-                  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/projects/egeria/egeria_shirt_proof.pdf">Download PDF</a>.</p>
-              </embed>
-          </object>
-        </td>
-        <td><img src="/projects/egeria/egeria_shirt_front_logo.pdf" width="200"></td>
-        <td><img src="/projects/egeria/egeria_shirt_sleeve_logo.pdf" width="200"></td>
+        <td><a href="/projects/egeria/egeria_shirt_proof.pdf">Download PDF</a></td>
+        <td><a href="/projects/egeria/egeria_shirt_front_logo.pdf">Download PDF</a></td>
+        <td><a href="/projects/egeria/egeria_shirt_sleeve_logo.pdf">Download PDF</a></td>
     </tr>
 </table>
