@@ -46,9 +46,9 @@
         <td><img src="/other/odpi-member/odpi-member-black.svg" width="200"></td>
     </tr>
     <tr>
-        <th>color</th>
-        <td><img src="/other/odpi-member/odpi-member-color.png" width="200"></td>
-        <td><img src="/other/odpi-member/odpi-member-color.svg" width="200"></td>
+        <th>white</th>
+        <td><img src="/other/odpi-member/odpi-member-white.png" width="200"></td>
+        <td><img src="/other/odpi-member/odpi-member-white.svg" width="200"></td>
     </tr>
 </table>
 
