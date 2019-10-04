@@ -37,8 +37,8 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/odpi-member/odpi-member.png" width="200"></td>
-        <td><img src="/other/odpi-member/odpi-member.svg" width="200"></td>
+        <td><img src="/other/odpi-member/odpi-member-color.png" width="200"></td>
+        <td><img src="/other/odpi-member/odpi-member-color.svg" width="200"></td>
     </tr>
     <tr>
         <th>black</th>
