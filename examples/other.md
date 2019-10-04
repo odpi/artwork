@@ -31,12 +31,24 @@
 
 <table>
     <tr>
+        <th></th>
         <th>PNG</th>
         <th>SVG</th>
     </tr>
     <tr>
+        <th>color</th>
         <td><img src="/other/odpi-member/odpi-member.png" width="200"></td>
         <td><img src="/other/odpi-member/odpi-member.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/odpi-member/odpi-member-black.png" width="200"></td>
+        <td><img src="/other/odpi-member/odpi-member-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/odpi-member/odpi-member-color.png" width="200"></td>
+        <td><img src="/other/odpi-member/odpi-member-color.svg" width="200"></td>
     </tr>
 </table>
 
