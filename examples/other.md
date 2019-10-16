@@ -78,3 +78,18 @@ The [Egeria Conformant](examples/other.md#egeria-conformant-logos) marks are onl
         <td><img src="/other/egeria-conformant/egeria-conformant-white.svg" width="200"></td>
     </tr>
 </table>
+
+## Egeria Badges
+
+These badges are only for us by those granted the badge by the Linux Foundation in accordance with the requirements determined by the Egeria project team.
+
+<table>
+    <tr>
+        <td><a href="https://www.youracclaim.com/org/the-linux-foundation/badge/odpi-egeria-contributor">Egeria Contributor</a></td>
+        <td><img src="/other/egeria-badges/egeria-badge-contributor.png" width="200"></td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youracclaim.com/org/the-linux-foundation/badge/odpi-egeria-maintainer">Egeria Maintainer</a></td>
+        <td><img src="/other/egeria-badges/egeria-badge-maintainer.png" width="200"></td>
+    </tr>
+</table>

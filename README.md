@@ -13,6 +13,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [ODPi](examples/other.md#odpi-logos)
   * [ODPi Member](examples/other.md#odpi-member-logos)
   * [Egeria Conformant](examples/other.md#egeria-conformant-logos)
+  * [Egeria Badges](examples/other#egeria-badges)
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.odpi.org/trademark-usage.
 
